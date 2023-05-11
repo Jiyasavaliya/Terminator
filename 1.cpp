@@ -6,6 +6,7 @@ int main(){
 	int b=0;
 	int ans;
 	char arorr[40]="number cannot be divide by zero";
+
 	try{
 		
 		if(b==0){
