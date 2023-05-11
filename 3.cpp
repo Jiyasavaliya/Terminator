@@ -1,7 +1,8 @@
 #include<iostream>
 using namespace std;
 
-main(){
+int main(){
+	
 	char lower='a'||'z';
 	char upper='A'||'Z';
 	
